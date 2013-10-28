@@ -1,0 +1,12 @@
+/shared/constants.as;
+/shared/files.as;
+
+generic/matchstates.as;
+generic/bots.as;
+generic/items.as;
+
+tutorial/main.as;
+tutorial/info.as;
+tutorial/media.as;
+
+legacy/quake1.as;
