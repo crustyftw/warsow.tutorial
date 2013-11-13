@@ -29,11 +29,6 @@ Not to mention the fact that such a tutorial would need to be localized since 60
 20:52 like info ballots are just a class like turrets that create misc_infoballot entities
 
 //
-15:07 ye ofc
-15:08 you'll likely have to plan the tutorial structure a bit
-15:08 map was made like it would show first show bunnyhopping, walljumping etc and explain them at each location with ballot
-15:08 idea of first hallway was to reach the door in the corridor with bunnyhopping
-15:08 you can't walk there as it closes before..
-15:08 got the idea?
-15:09 map itself could have some transparent neon signs and whatnot to show routes, i can do work like that if needed
-15:09 and everything mapping related
+ye ofc, you'll likely have to plan the tutorial structure a bit, map was made like it would show first show bunnyhopping, walljumping etc and explain them at each location with ballot, idea of first hallway was to reach the door in the corridor with bunnyhopping, you can't walk there as it closes before..
+
+map itself could have some transparent neon signs and whatnot to show routes, i can do work like that if needed,and everything mapping related
