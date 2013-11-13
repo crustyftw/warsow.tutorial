@@ -35,6 +35,5 @@ Not to mention the fact that such a tutorial would need to be localized since 60
 15:08 idea of first hallway was to reach the door in the corridor with bunnyhopping
 15:08 you can't walk there as it closes before..
 15:08 got the idea?
-15:08 
 15:09 map itself could have some transparent neon signs and whatnot to show routes, i can do work like that if needed
 15:09 and everything mapping related
